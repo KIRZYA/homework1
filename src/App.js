@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import React from 'react';
-import { BrowserRouter as HashRouter, Routes, Route } from 'react-router-dom';
+import {HashRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
